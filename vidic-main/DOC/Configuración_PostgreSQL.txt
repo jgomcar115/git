@@ -1,0 +1,58 @@
+Configuración y uso de PostgreSQL en Ubuntu
+link ayuda: https://www.digitalocean.com/community/tutorials/como-instalar-y-utilizar-postgresql-en-ubuntu-18-04-es
+
+	Instalación de la base de datos en el servidor.
+		- sudo apt update
+		- sudo apt install postgresql postgresql-contrib
+	
+	Uso y creación de roles: Cuando se instala la base de datos se crea un usuario
+	llamado postgres que se asocia con el rol predeterminado llamado PostGres.
+		- Para usar su cuenta:
+			sudo -i -u postgres
+		- Para acceder a la linea de comandos de la BD:
+			psql
+		- Para salir de la linea de comandos de la BD:
+			\q
+		
+		- Crear un nuevo rol
+			- Desde la cuenta de postgres y sin estar en la linea de comandos:
+				createuser --interactive
+			- Para ver todas las opciones al crear roles:
+				man createuser
+	
+	Crear una base de datos: Por defecto, los roles intentan acceder a una base de datos llamada igual
+	que su nombre de rol, pero puede ser que esta aún ni exista.
+		- Con el usuario postgres sin estar en la linea de comandos:
+			createdb nombre_rol  #siendo nombre_rol el nombre del rol creado
+		- Para abrir una linea de comandos con el nuevo rol, debe haber un usuario Linux cuyo nombre 
+		coincida con el nombre del rol. Por lo tanto hay que añadir un usuario.
+			- Cambiamos a la cuenta principal:
+				su usuario  #siendo usuario el nombre de la cuenta principal
+			- Creamos el nuevo usuario:
+				sudo adduser nombre_rol
+			- Nos conectamos a la linea de comandos del nuevo usuario:
+				sudo -u nombre_rol psql
+		
+		- Si deseas que el usuario se conecte a una DB diferente a su nombre:
+			psql -d nombre_db
+		- Obtener información del usuario conectado y la base de datos a la que se ha conectado.
+			- En la linea de comandos escribir:
+				\conninfo
+			- Para ver la versión de PostgreSQL puedes ejecutar:
+				SELECT version();
+
+	Cambiar la contraseña de un usuario de la BD.
+		- Entrar como el usuario: (ejemplo usuario postgres)
+			sudo -u postgres psql
+		- Alterar la tabla de usuarios:
+			ALTER USER postgres PASSWORD 'mypassword';	# 'usuario'
+
+	Dar acceso a otros equipos a la BD:
+		- Acceder al fichero /etc/postgresql/12/main/postgresql.conf
+		- Descomentar y editar la siguiente linea
+			listen_addresses = '*'
+		- Acceder al fichero /etc/postgresql/12/main/pg_hba.conf
+		- Editar la siguiente linea:
+			host	all	all	192.168.1.0/24	md5
+			
+		

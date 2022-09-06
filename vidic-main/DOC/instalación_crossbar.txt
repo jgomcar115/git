@@ -1,0 +1,12 @@
+Instalación y configuración de crossbar.io
+link de ayuda: https://crossbar.io/docs/Installation-on-Windows/
+	
+	- Solo he conseguidp hacer que arranque si lo inicializaba como docker. Para ello he tenido que instalar
+	docker y todas sus dependencias.
+
+	- Para establecer una conexión segura con el cliente y el broker crossbar.
+	link de ayuda: https://crossbar.io/docs/Transport-Endpoints/#tls-listening-endpoints
+		- sudo docker run -it -p 8080:8080 crossbario/crossbar
+
+	- También se puede arrancar usando 
+		- crossbar start

@@ -1,0 +1,11 @@
+link de ayuda: https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/?h=tokens
+
+Para poder dar tokens desde nuestra API y controlar los inicios de sesión necestidamos una libreria que genere
+dichos tokens:
+	- pip install "python-jose[cryptography]"
+Además necesitaremos como extra una libreria criptográfica:
+	- pip install cryptography
+También necesitaremos un manejador de hash de contraseñas.
+	- pip install "passlib[bcrypt]"
+
+Se crea un Passlib "context" para hashear y verificar las contraseñas.

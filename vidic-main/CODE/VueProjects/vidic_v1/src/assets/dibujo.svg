@@ -1,0 +1,3148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   viewBox="0 0 243 130"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0544998"
+     inkscape:cx="623.04421"
+     inkscape:cy="295.87488"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <radialGradient
+       id="Gradient_10"
+       gradientUnits="userSpaceOnUse"
+       cx="5459"
+       cy="11873.3"
+       r="805.28003">
+      <stop
+         offset="0"
+         stop-color="rgb(255,255,255)"
+         id="stop11997" />
+      <stop
+         offset="1"
+         stop-color="rgb(91,155,213)"
+         id="stop11999" />
+    </radialGradient>
+    <linearGradient
+       id="Gradient_11"
+       gradientUnits="userSpaceOnUse"
+       x1="4605"
+       y1="13136"
+       x2="6306"
+       y2="13138">
+      <stop
+         offset="0"
+         stop-color="rgb(247,250,253)"
+         id="stop12010" />
+      <stop
+         offset="1"
+         stop-color="rgb(206,225,242)"
+         id="stop12012" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient1726"
+       gradientUnits="userSpaceOnUse"
+       cx="5459"
+       cy="11873.3"
+       r="805.28003">
+      <stop
+         offset="0"
+         stop-color="rgb(255,255,255)"
+         id="stop1722" />
+      <stop
+         offset="1"
+         stop-color="rgb(91,155,213)"
+         id="stop1724" />
+    </radialGradient>
+    <linearGradient
+       id="Gradient_17"
+       gradientUnits="userSpaceOnUse"
+       x1="14858"
+       y1="12247"
+       x2="15861"
+       y2="12249">
+      <stop
+         offset="0"
+         stop-color="rgb(247,250,253)"
+         id="stop12727" />
+      <stop
+         offset="1"
+         stop-color="rgb(206,225,242)"
+         id="stop12729" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_18"
+       gradientUnits="userSpaceOnUse"
+       x1="15363"
+       y1="14124"
+       x2="15365"
+       y2="13228">
+      <stop
+         offset="0"
+         stop-color="rgb(247,250,253)"
+         id="stop12739" />
+      <stop
+         offset="1"
+         stop-color="rgb(206,225,242)"
+         id="stop12741" />
+    </linearGradient>
+    <radialGradient
+       id="Gradient_12"
+       gradientUnits="userSpaceOnUse"
+       cx="6518"
+       cy="16513.801"
+       r="400.22198">
+      <stop
+         offset="0"
+         stop-color="rgb(255,255,255)"
+         id="stop12539" />
+      <stop
+         offset="1"
+         stop-color="rgb(91,155,213)"
+         id="stop12541" />
+    </radialGradient>
+    <linearGradient
+       id="Gradient_13"
+       gradientUnits="userSpaceOnUse"
+       x1="7151"
+       y1="16626"
+       x2="7094"
+       y2="16626">
+      <stop
+         offset="0"
+         stop-color="rgb(42,105,162)"
+         id="stop12552" />
+      <stop
+         offset="1"
+         stop-color="rgb(157,195,230)"
+         id="stop12554" />
+    </linearGradient>
+    <radialGradient
+       id="Gradient_14"
+       gradientUnits="userSpaceOnUse"
+       cx="4400.5"
+       cy="16567.6"
+       r="152.92599">
+      <stop
+         offset="0"
+         stop-color="rgb(255,255,255)"
+         id="stop12572" />
+      <stop
+         offset="1"
+         stop-color="rgb(91,155,213)"
+         id="stop12574" />
+    </radialGradient>
+    <linearGradient
+       id="Gradient_15"
+       gradientUnits="userSpaceOnUse"
+       x1="4169"
+       y1="16610"
+       x2="4169"
+       y2="16655">
+      <stop
+         offset="0"
+         stop-color="rgb(247,250,253)"
+         id="stop12584" />
+      <stop
+         offset="1"
+         stop-color="rgb(206,225,242)"
+         id="stop12586" />
+    </linearGradient>
+    <radialGradient
+       id="Gradient_16"
+       gradientUnits="userSpaceOnUse"
+       cx="4282.5"
+       cy="16567.6"
+       r="152.92599">
+      <stop
+         offset="0"
+         stop-color="rgb(255,255,255)"
+         id="stop12596" />
+      <stop
+         offset="1"
+         stop-color="rgb(91,155,213)"
+         id="stop12598" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient3493"
+       gradientUnits="userSpaceOnUse"
+       cx="6518"
+       cy="16513.801"
+       r="400.22198">
+      <stop
+         offset="0"
+         stop-color="rgb(255,255,255)"
+         id="stop3489" />
+      <stop
+         offset="1"
+         stop-color="rgb(91,155,213)"
+         id="stop3491" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient3519"
+       gradientUnits="userSpaceOnUse"
+       cx="4400.5"
+       cy="16567.6"
+       r="152.92599">
+      <stop
+         offset="0"
+         stop-color="rgb(255,255,255)"
+         id="stop3515" />
+      <stop
+         offset="1"
+         stop-color="rgb(91,155,213)"
+         id="stop3517" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient3539"
+       gradientUnits="userSpaceOnUse"
+       cx="4282.5"
+       cy="16567.6"
+       r="152.92599">
+      <stop
+         offset="0"
+         stop-color="rgb(255,255,255)"
+         id="stop3535" />
+      <stop
+         offset="1"
+         stop-color="rgb(91,155,213)"
+         id="stop3537" />
+    </radialGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="homogeneizador"
+       transform="matrix(0.01701862,0,0,0.02196798,-64.329499,-253.38625)">
+      <g
+         id="DrawingGroup_4_Grupo_10">
+        <g
+           id="DrawingGroup_5_Grupo_8">
+          <g
+             id="g12008">
+            <defs
+               id="defs12002">
+              <radialGradient
+                 id="radialGradient2031"
+                 gradientUnits="userSpaceOnUse"
+                 cx="5459"
+                 cy="11873.3"
+                 r="805.28003">
+                <stop
+                   offset="0"
+                   stop-color="rgb(255,255,255)"
+                   id="stop2027" />
+                <stop
+                   offset="1"
+                   stop-color="rgb(91,155,213)"
+                   id="stop2029" />
+              </radialGradient>
+            </defs>
+            <path
+               fill="url(#Gradient_10)"
+               stroke="none"
+               id="Drawing_8_Retraso_4_0"
+               d="m 4734,12013 1,-16 3,-17 5,-16 7,-16 9,-16 11,-16 26,-32 33,-30 39,-29 44,-27 48,-26 53,-23 57,-21 60,-19 62,-16 65,-13 66,-9 67,-6 68,-2 68,2 67,6 66,9 65,13 63,16 59,19 57,21 53,23 49,26 44,27 39,29 33,30 26,32 11,16 9,16 7,16 5,16 3,17 1,16 v 350 H 4734 Z"
+               style="fill:url(#Gradient_10)" />
+            <path
+               fill="none"
+               stroke="#43729d"
+               id="Drawing_8_Retraso_4_1"
+               stroke-width="35"
+               d="m 4734,12013 c 0,-175 362,-350 724,-350 362,0 725,175 725,350 v 350 H 4734 Z" />
+            <rect
+               fill="none"
+               stroke="none"
+               x="4733"
+               y="11663"
+               width="1450"
+               height="701"
+               id="rect12006" />
+          </g>
+          <g
+             id="g12020">
+            <defs
+               id="defs12015">
+              <linearGradient
+                 id="RESERVED_FOR_INKSCAPE_DUPLICATE_DEF_000000000"
+                 gradientUnits="userSpaceOnUse"
+                 x1="4605"
+                 y1="13136"
+                 x2="6306"
+                 y2="13138">
+                <stop
+                   offset="0"
+                   stop-color="rgb(247,250,253)"
+                   id="stop1733" />
+                <stop
+                   offset="1"
+                   stop-color="rgb(206,225,242)"
+                   id="stop1735" />
+              </linearGradient>
+            </defs>
+            <path
+               fill="url(#Gradient_11)"
+               stroke="#43729d"
+               id="Drawing_9_Rectángulo_5_0"
+               stroke-width="35"
+               d="m 5457,13957 h -850 v -1640 h 1699 v 1640 z"
+               style="fill:url(#Gradient_11)" />
+            <rect
+               fill="none"
+               stroke="none"
+               x="4608"
+               y="12317"
+               width="1700"
+               height="1641"
+               id="rect12018" />
+          </g>
+          <g
+             id="g12027">
+            <path
+               fill="#5b9bd5"
+               stroke="none"
+               d="m 5457,14168 h -850 v -211 h 1699 v 211 z"
+               id="path12022" />
+            <path
+               fill="none"
+               stroke="#43729d"
+               id="Drawing_10_Rectángulo_74_0"
+               stroke-width="35"
+               d="m 5457,14168 h -850 v -211 h 1699 v 211 z" />
+            <rect
+               fill="none"
+               stroke="none"
+               x="4608"
+               y="13958"
+               width="1700"
+               height="212"
+               id="rect12025" />
+          </g>
+          <g
+             id="g12034">
+            <path
+               fill="#deebf7"
+               stroke="none"
+               d="m 4883,13851 h -63 v -1522 h 126 v 1522 z"
+               id="path12029" />
+            <path
+               fill="none"
+               stroke="#43729d"
+               id="Drawing_11_Rectángulo_76_0"
+               stroke-width="18"
+               d="m 4883,13851 h -63 v -1522 h 126 v 1522 z" />
+            <rect
+               fill="none"
+               stroke="none"
+               x="4820"
+               y="12329"
+               width="127"
+               height="1523"
+               id="rect12032" />
+          </g>
+        </g>
+        <g
+           id="g12042">
+          <path
+             fill="#9dc3e6"
+             stroke="none"
+             d="m 5501,13368 c 109,0 193,84 193,193 0,109 -84,193 -193,193 -109,0 -193,-84 -193,-193 0,-109 84,-193 193,-193 z"
+             id="path12037" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_12_Elipse_9_0"
+             stroke-width="18"
+             d="m 5501,13368 c 109,0 193,84 193,193 0,109 -84,193 -193,193 -109,0 -193,-84 -193,-193 0,-109 84,-193 193,-193 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="5308"
+             y="13368"
+             width="387"
+             height="387"
+             id="rect12040" />
+        </g>
+        <g
+           id="g12049">
+          <path
+             fill="#9dc3e6"
+             stroke="none"
+             d="m 5506,13399 c 95,0 168,73 168,168 0,95 -73,168 -168,168 -95,0 -168,-73 -168,-168 0,-95 73,-168 168,-168 z"
+             id="path12044" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_13_Elipse_78_0"
+             stroke-width="18"
+             d="m 5506,13399 c 95,0 168,73 168,168 0,95 -73,168 -168,168 -95,0 -168,-73 -168,-168 0,-95 73,-168 168,-168 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="5338"
+             y="13399"
+             width="337"
+             height="337"
+             id="rect12047" />
+        </g>
+      </g>
+      <g
+         id="g12058">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5183,12299 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12052" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5158"
+           y="12249"
+           width="51"
+           height="51"
+           id="rect12054" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5159"
+           y="12250"
+           width="51"
+           height="51"
+           id="rect12056" />
+      </g>
+      <g
+         id="g12066">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5606,12722 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12060" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5582"
+           y="12672"
+           width="50"
+           height="51"
+           id="rect12062" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5582"
+           y="12673"
+           width="51"
+           height="51"
+           id="rect12064" />
+      </g>
+      <g
+         id="g12074">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5516,12377 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12068" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5491"
+           y="12328"
+           width="51"
+           height="50"
+           id="rect12070" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5492"
+           y="12328"
+           width="51"
+           height="51"
+           id="rect12072" />
+      </g>
+      <g
+         id="g12082">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5183,13255 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12076" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5158"
+           y="13206"
+           width="51"
+           height="50"
+           id="rect12078" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5159"
+           y="13206"
+           width="51"
+           height="51"
+           id="rect12080" />
+      </g>
+      <g
+         id="g12090">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5316,12773 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12084" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5291"
+           y="12724"
+           width="51"
+           height="50"
+           id="rect12086" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5292"
+           y="12724"
+           width="51"
+           height="51"
+           id="rect12088" />
+      </g>
+      <g
+         id="g12098">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5635,13170 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12092" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5611"
+           y="13121"
+           width="50"
+           height="50"
+           id="rect12094" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5611"
+           y="13121"
+           width="51"
+           height="51"
+           id="rect12096" />
+      </g>
+      <g
+         id="g12106">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5974,12936 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12100" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5949"
+           y="12887"
+           width="51"
+           height="50"
+           id="rect12102" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5950"
+           y="12887"
+           width="51"
+           height="51"
+           id="rect12104" />
+      </g>
+      <g
+         id="g12114">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5922,13516 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12108" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5897"
+           y="13467"
+           width="51"
+           height="50"
+           id="rect12110" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5898"
+           y="13467"
+           width="51"
+           height="51"
+           id="rect12112" />
+      </g>
+      <g
+         id="g12122">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5340,12537 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12116" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5315"
+           y="12488"
+           width="51"
+           height="50"
+           id="rect12118" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5316"
+           y="12488"
+           width="51"
+           height="51"
+           id="rect12120" />
+      </g>
+      <g
+         id="g12130">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 6058,13594 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12124" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="6033"
+           y="13545"
+           width="51"
+           height="50"
+           id="rect12126" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="6034"
+           y="13545"
+           width="51"
+           height="51"
+           id="rect12128" />
+      </g>
+      <g
+         id="g12138">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5181,13594 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12132" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5156"
+           y="13544"
+           width="51"
+           height="51"
+           id="rect12134" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5157"
+           y="13545"
+           width="51"
+           height="51"
+           id="rect12136" />
+      </g>
+      <g
+         id="g12146">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5829,13766 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12140" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5804"
+           y="13717"
+           width="51"
+           height="50"
+           id="rect12142" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5805"
+           y="13717"
+           width="51"
+           height="51"
+           id="rect12144" />
+      </g>
+      <g
+         id="g12154">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5992,13223 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12148" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5967"
+           y="13174"
+           width="51"
+           height="50"
+           id="rect12150" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5968"
+           y="13174"
+           width="51"
+           height="51"
+           id="rect12152" />
+      </g>
+      <g
+         id="g12162">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 5421,13255 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12156" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5396"
+           y="13206"
+           width="51"
+           height="50"
+           id="rect12158" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="5397"
+           y="13206"
+           width="51"
+           height="51"
+           id="rect12160" />
+      </g>
+    </g>
+    <g
+       id="reactor"
+       transform="matrix(0.01541688,0,0,0.02079967,-41.477924,-242.37022)">
+      <g
+         id="g12170"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#deebf7"
+           stroke="none"
+           d="M 10552,14160 H 7940 v -1405 h 5224 v 1405 z"
+           id="path12165" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_28_Rectángulo_121_0"
+           stroke-width="35"
+           d="M 10552,14160 H 7940 v -1405 h 5224 v 1405 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="7940"
+           y="12756"
+           width="5225"
+           height="1406"
+           id="rect12168" />
+      </g>
+      <g
+         id="g12177"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="M 10552,14160 H 7940 v -126 h 5224 v 126 z"
+           id="path12172" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_29_Rectángulo_142_0"
+           stroke-width="35"
+           d="M 10552,14160 H 7940 v -126 h 5224 v 126 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="7940"
+           y="14034"
+           width="5225"
+           height="127"
+           id="rect12175" />
+      </g>
+      <g
+         id="g12185"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="M 10557,14023 H 7964 v -903 h 5185 v 903 z"
+           id="path12179" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="7964"
+           y="13120"
+           width="5186"
+           height="904"
+           id="rect12181" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="7965"
+           y="13121"
+           width="5186"
+           height="904"
+           id="rect12183" />
+      </g>
+      <g
+         id="g12192"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 10056,13413 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12187" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_31_Elipse_144_0"
+           stroke-width="9"
+           d="m 10056,13413 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="10032"
+           y="13364"
+           width="51"
+           height="51"
+           id="rect12190" />
+      </g>
+      <g
+         id="g12199"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 10414,13663 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12194" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_32_Elipse_145_0"
+           stroke-width="9"
+           d="m 10414,13663 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="10390"
+           y="13614"
+           width="51"
+           height="51"
+           id="rect12197" />
+      </g>
+      <g
+         id="g12206"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 10550,13740 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12201" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_33_Elipse_146_0"
+           stroke-width="9"
+           d="m 10550,13740 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="10526"
+           y="13691"
+           width="51"
+           height="51"
+           id="rect12204" />
+      </g>
+      <g
+         id="g12213"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 10321,13912 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12208" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_34_Elipse_147_0"
+           stroke-width="9"
+           d="m 10321,13912 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="10297"
+           y="13863"
+           width="51"
+           height="51"
+           id="rect12211" />
+      </g>
+      <g
+         id="g12220"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 10074,13700 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12215" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_35_Elipse_148_0"
+           stroke-width="9"
+           d="m 10074,13700 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="10050"
+           y="13651"
+           width="51"
+           height="51"
+           id="rect12218" />
+      </g>
+      <g
+         id="g12227"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 10585,13254 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12222" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_36_Elipse_149_0"
+           stroke-width="9"
+           d="m 10585,13254 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="10561"
+           y="13205"
+           width="51"
+           height="51"
+           id="rect12225" />
+      </g>
+      <g
+         id="g12234"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 10944,13504 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12229" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_37_Elipse_150_0"
+           stroke-width="9"
+           d="m 10944,13504 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="10920"
+           y="13455"
+           width="51"
+           height="51"
+           id="rect12232" />
+      </g>
+      <g
+         id="g12241"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 11080,13581 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12236" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_38_Elipse_151_0"
+           stroke-width="9"
+           d="m 11080,13581 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="11056"
+           y="13532"
+           width="51"
+           height="51"
+           id="rect12239" />
+      </g>
+      <g
+         id="g12248"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 10850,13753 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12243" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_39_Elipse_152_0"
+           stroke-width="9"
+           d="m 10850,13753 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="10826"
+           y="13704"
+           width="51"
+           height="51"
+           id="rect12246" />
+      </g>
+      <g
+         id="g12255"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 10603,13541 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12250" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_40_Elipse_153_0"
+           stroke-width="9"
+           d="m 10603,13541 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="10579"
+           y="13492"
+           width="51"
+           height="51"
+           id="rect12253" />
+      </g>
+      <g
+         id="g12262"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 8680,13413 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12257" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_41_Elipse_154_0"
+           stroke-width="9"
+           d="m 8680,13413 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="8656"
+           y="13364"
+           width="51"
+           height="51"
+           id="rect12260" />
+      </g>
+      <g
+         id="g12269"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 9039,13663 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12264" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_42_Elipse_155_0"
+           stroke-width="9"
+           d="m 9039,13663 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9015"
+           y="13614"
+           width="51"
+           height="51"
+           id="rect12267" />
+      </g>
+      <g
+         id="g12276"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 9175,13740 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12271" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_43_Elipse_156_0"
+           stroke-width="9"
+           d="m 9175,13740 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9151"
+           y="13691"
+           width="51"
+           height="51"
+           id="rect12274" />
+      </g>
+      <g
+         id="g12283"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 8945,13912 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12278" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_44_Elipse_157_0"
+           stroke-width="9"
+           d="m 8945,13912 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="8921"
+           y="13863"
+           width="51"
+           height="51"
+           id="rect12281" />
+      </g>
+      <g
+         id="g12290"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 8698,13700 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12285" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_45_Elipse_158_0"
+           stroke-width="9"
+           d="m 8698,13700 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="8674"
+           y="13651"
+           width="51"
+           height="51"
+           id="rect12288" />
+      </g>
+      <g
+         id="g12297"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 9209,13254 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12292" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_46_Elipse_159_0"
+           stroke-width="9"
+           d="m 9209,13254 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9185"
+           y="13205"
+           width="51"
+           height="51"
+           id="rect12295" />
+      </g>
+      <g
+         id="g12304"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 9568,13504 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12299" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_47_Elipse_160_0"
+           stroke-width="9"
+           d="m 9568,13504 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9544"
+           y="13455"
+           width="51"
+           height="51"
+           id="rect12302" />
+      </g>
+      <g
+         id="g12311"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 9704,13581 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12306" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_48_Elipse_161_0"
+           stroke-width="9"
+           d="m 9704,13581 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9680"
+           y="13532"
+           width="51"
+           height="51"
+           id="rect12309" />
+      </g>
+      <g
+         id="g12318"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 9474,13753 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12313" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_49_Elipse_162_0"
+           stroke-width="9"
+           d="m 9474,13753 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9450"
+           y="13704"
+           width="51"
+           height="51"
+           id="rect12316" />
+      </g>
+      <g
+         id="g12325"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 9227,13541 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12320" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_50_Elipse_163_0"
+           stroke-width="9"
+           d="m 9227,13541 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9203"
+           y="13492"
+           width="51"
+           height="51"
+           id="rect12323" />
+      </g>
+      <g
+         id="g12332"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 11802,13373 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12327" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_51_Elipse_164_0"
+           stroke-width="9"
+           d="m 11802,13373 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="11778"
+           y="13324"
+           width="51"
+           height="51"
+           id="rect12330" />
+      </g>
+      <g
+         id="g12339"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 12161,13623 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12334" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_52_Elipse_165_0"
+           stroke-width="9"
+           d="m 12161,13623 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12137"
+           y="13574"
+           width="51"
+           height="51"
+           id="rect12337" />
+      </g>
+      <g
+         id="g12346"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 12297,13700 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12341" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_53_Elipse_166_0"
+           stroke-width="9"
+           d="m 12297,13700 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12273"
+           y="13651"
+           width="51"
+           height="51"
+           id="rect12344" />
+      </g>
+      <g
+         id="g12353"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 12067,13872 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12348" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_54_Elipse_167_0"
+           stroke-width="9"
+           d="m 12067,13872 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12043"
+           y="13823"
+           width="51"
+           height="51"
+           id="rect12351" />
+      </g>
+      <g
+         id="g12360"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 11820,13660 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12355" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_55_Elipse_168_0"
+           stroke-width="9"
+           d="m 11820,13660 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="11796"
+           y="13611"
+           width="51"
+           height="51"
+           id="rect12358" />
+      </g>
+      <g
+         id="g12367"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 12332,13214 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12362" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_56_Elipse_169_0"
+           stroke-width="9"
+           d="m 12332,13214 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12308"
+           y="13165"
+           width="51"
+           height="51"
+           id="rect12365" />
+      </g>
+      <g
+         id="g12374"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 12690,13464 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12369" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_57_Elipse_170_0"
+           stroke-width="9"
+           d="m 12690,13464 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12666"
+           y="13415"
+           width="51"
+           height="51"
+           id="rect12372" />
+      </g>
+      <g
+         id="g12381"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 12826,13541 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12376" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_58_Elipse_171_0"
+           stroke-width="9"
+           d="m 12826,13541 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12802"
+           y="13492"
+           width="51"
+           height="51"
+           id="rect12379" />
+      </g>
+      <g
+         id="g12388"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 12597,13713 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12383" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_59_Elipse_172_0"
+           stroke-width="9"
+           d="m 12597,13713 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12573"
+           y="13664"
+           width="51"
+           height="51"
+           id="rect12386" />
+      </g>
+      <g
+         id="g12395"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 12350,13502 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12390" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_60_Elipse_173_0"
+           stroke-width="9"
+           d="m 12350,13502 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12326"
+           y="13453"
+           width="51"
+           height="51"
+           id="rect12393" />
+      </g>
+      <g
+         id="g12402"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 11195,13636 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12397" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_61_Elipse_174_0"
+           stroke-width="9"
+           d="m 11195,13636 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="11171"
+           y="13587"
+           width="51"
+           height="51"
+           id="rect12400" />
+      </g>
+      <g
+         id="g12409"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 11331,13713 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12404" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_62_Elipse_175_0"
+           stroke-width="9"
+           d="m 11331,13713 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="11307"
+           y="13664"
+           width="51"
+           height="51"
+           id="rect12407" />
+      </g>
+      <g
+         id="g12416"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 11102,13885 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12411" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_63_Elipse_176_0"
+           stroke-width="9"
+           d="m 11102,13885 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="11078"
+           y="13836"
+           width="51"
+           height="51"
+           id="rect12414" />
+      </g>
+      <g
+         id="g12423"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 11366,13227 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12418" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_64_Elipse_177_0"
+           stroke-width="9"
+           d="m 11366,13227 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="11342"
+           y="13178"
+           width="51"
+           height="51"
+           id="rect12421" />
+      </g>
+      <g
+         id="g12430"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 11724,13477 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12425" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_65_Elipse_178_0"
+           stroke-width="9"
+           d="m 11724,13477 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="11700"
+           y="13428"
+           width="51"
+           height="51"
+           id="rect12428" />
+      </g>
+      <g
+         id="g12437"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 11631,13726 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12432" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_66_Elipse_179_0"
+           stroke-width="9"
+           d="m 11631,13726 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="11607"
+           y="13677"
+           width="51"
+           height="51"
+           id="rect12435" />
+      </g>
+      <g
+         id="g12444"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 11384,13515 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12439" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_67_Elipse_180_0"
+           stroke-width="9"
+           d="m 11384,13515 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="11360"
+           y="13466"
+           width="51"
+           height="51"
+           id="rect12442" />
+      </g>
+      <g
+         id="g12451"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 8045,13426 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12446" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_68_Elipse_181_0"
+           stroke-width="9"
+           d="m 8045,13426 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="8021"
+           y="13377"
+           width="51"
+           height="51"
+           id="rect12449" />
+      </g>
+      <g
+         id="g12458"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 8063,13713 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12453" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_69_Elipse_185_0"
+           stroke-width="9"
+           d="m 8063,13713 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="8039"
+           y="13664"
+           width="51"
+           height="51"
+           id="rect12456" />
+      </g>
+      <g
+         id="g12465"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 8592,13555 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12460" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_70_Elipse_187_0"
+           stroke-width="9"
+           d="m 8592,13555 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="8568"
+           y="13506"
+           width="51"
+           height="51"
+           id="rect12463" />
+      </g>
+      <g
+         id="g12472"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 9884,13519 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12467" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_71_Elipse_188_0"
+           stroke-width="9"
+           d="m 9884,13519 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9860"
+           y="13470"
+           width="51"
+           height="51"
+           id="rect12470" />
+      </g>
+      <g
+         id="g12479"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 9902,13806 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12474" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_72_Elipse_189_0"
+           stroke-width="9"
+           d="m 9902,13806 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9878"
+           y="13757"
+           width="51"
+           height="51"
+           id="rect12477" />
+      </g>
+      <g
+         id="g12486"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 12875,13649 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12481" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_73_Elipse_190_0"
+           stroke-width="9"
+           d="m 12875,13649 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12851"
+           y="13600"
+           width="51"
+           height="51"
+           id="rect12484" />
+      </g>
+      <g
+         id="g12493"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 13011,13727 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12488" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_74_Elipse_191_0"
+           stroke-width="9"
+           d="m 13011,13727 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12987"
+           y="13678"
+           width="51"
+           height="51"
+           id="rect12491" />
+      </g>
+      <g
+         id="g12500"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 12782,13898 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12495" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_75_Elipse_192_0"
+           stroke-width="9"
+           d="m 12782,13898 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="12758"
+           y="13849"
+           width="51"
+           height="51"
+           id="rect12498" />
+      </g>
+      <g
+         id="g12507"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 13046,13241 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12502" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_76_Elipse_193_0"
+           stroke-width="9"
+           d="m 13046,13241 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="13022"
+           y="13192"
+           width="51"
+           height="51"
+           id="rect12505" />
+      </g>
+      <g
+         id="g12514"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 13064,13528 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z"
+           id="path12509" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_77_Elipse_194_0"
+           stroke-width="9"
+           d="m 13064,13528 c 14,0 25,-10 25,-24 0,-14 -11,-25 -25,-25 -14,0 -24,11 -24,25 0,14 10,24 24,24 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="13040"
+           y="13479"
+           width="51"
+           height="51"
+           id="rect12512" />
+      </g>
+      <g
+         id="g12522"
+         transform="translate(366.41455,271.58927)">
+        <path
+           fill="#deebf7"
+           stroke="none"
+           d="M 10561,13064 H 7971 v -321 h 5179 v 321 z"
+           id="path12516" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="7971"
+           y="12743"
+           width="5180"
+           height="322"
+           id="rect12518" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="7972"
+           y="12744"
+           width="5180"
+           height="322"
+           id="rect12520" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.523999;stroke-opacity:0.6"
+       x="113.68166"
+       y="67.020859"
+       id="text12896-0"><tspan
+         sodipodi:role="line"
+         id="tspan12894-6"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:0.524;stroke-opacity:0.6"
+         x="113.68166"
+         y="67.020859">Reactor</tspan></text>
+    <g
+       id="DrawingGroup_11_Grupo_298"
+       transform="matrix(0.02279535,0,0,0.01917939,-134.72212,-212.7924)">
+      <g
+         id="g12737">
+        <defs
+           id="defs12732">
+          <linearGradient
+             id="linearGradient3392"
+             gradientUnits="userSpaceOnUse"
+             x1="14858"
+             y1="12247"
+             x2="15861"
+             y2="12249">
+            <stop
+               offset="0"
+               stop-color="rgb(247,250,253)"
+               id="stop3267" />
+            <stop
+               offset="1"
+               stop-color="rgb(206,225,242)"
+               id="stop3269" />
+          </linearGradient>
+        </defs>
+        <path
+           fill="url(#Gradient_17)"
+           stroke="#43729d"
+           id="Drawing_106_Rectángulo_291_0"
+           stroke-width="35"
+           d="m 15361,13211 h -500 v -1925 h 999 v 1925 z"
+           style="fill:url(#Gradient_17)" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="14862"
+           y="11287"
+           width="1000"
+           height="1926"
+           id="rect12735" />
+      </g>
+      <g
+         id="g12749">
+        <defs
+           id="defs12744">
+          <linearGradient
+             id="linearGradient3403"
+             gradientUnits="userSpaceOnUse"
+             x1="15363"
+             y1="14124"
+             x2="15365"
+             y2="13228">
+            <stop
+               offset="0"
+               stop-color="rgb(247,250,253)"
+               id="stop3277" />
+            <stop
+               offset="1"
+               stop-color="rgb(206,225,242)"
+               id="stop3279" />
+          </linearGradient>
+        </defs>
+        <path
+           fill="url(#Gradient_18)"
+           stroke="#43729d"
+           id="Drawing_107_Trapecio_292_0"
+           stroke-width="35"
+           d="m 15864,14123 h -1000 l 250,-894 h 500 z"
+           style="fill:url(#Gradient_18)" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="14864"
+           y="13230"
+           width="1001"
+           height="895"
+           id="rect12747" />
+      </g>
+      <g
+         id="g12756">
+        <path
+           fill="#deebf7"
+           stroke="none"
+           d="m 15369,13082 h -111 v -1786 h 221 v 1786 z"
+           id="path12751" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_108_Rectángulo_293_0"
+           stroke-width="18"
+           d="m 15369,13082 h -111 v -1786 h 221 v 1786 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="15259"
+           y="11296"
+           width="222"
+           height="1787"
+           id="rect12754" />
+      </g>
+      <g
+         id="g12763">
+        <path
+           fill="#9dc3e6"
+           stroke="none"
+           d="m 15365,13100 h -200 v -99 h 399 v 99 z"
+           id="path12758" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_109_Rectángulo_294_0"
+           stroke-width="18"
+           d="m 15365,13100 h -200 v -99 h 399 v 99 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="15166"
+           y="13002"
+           width="400"
+           height="100"
+           id="rect12761" />
+      </g>
+      <g
+         id="g12770">
+        <path
+           fill="#9dc3e6"
+           stroke="none"
+           d="m 15841,14151 h -25 v -899 h 49 v 899 z"
+           id="path12765" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_110_Rectángulo_295_0"
+           stroke-width="18"
+           d="m 15841,14151 h -25 v -899 h 49 v 899 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="15817"
+           y="13253"
+           width="50"
+           height="900"
+           id="rect12768" />
+      </g>
+      <g
+         id="g12777">
+        <path
+           fill="#9dc3e6"
+           stroke="none"
+           d="m 14878,14151 h -25 v -899 h 49 v 899 z"
+           id="path12772" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_111_Rectángulo_296_0"
+           stroke-width="18"
+           d="m 14878,14151 h -25 v -899 h 49 v 899 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="14854"
+           y="13253"
+           width="50"
+           height="900"
+           id="rect12775" />
+      </g>
+    </g>
+    <g
+       id="dehidratador"
+       transform="matrix(0.01730013,0,0,0.030569,-61.809244,-404.96021)">
+      <g
+         id="g12530">
+        <path
+           fill="#deebf7"
+           stroke="none"
+           d="M 5756,17108 H 3970 v -1134 h 3571 v 1134 z"
+           id="path12525" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_79_Rectángulo_43_0"
+           stroke-width="26"
+           d="M 5756,17108 H 3970 v -1134 h 3571 v 1134 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="3971"
+           y="15974"
+           width="3572"
+           height="1135"
+           id="rect12528" />
+      </g>
+      <g
+         id="DrawingGroup_8_Grupo_365">
+        <g
+           id="g12537">
+          <path
+             fill="#ffffff"
+             stroke="none"
+             d="m 5212,16739 h -760 v -220 h 1519 v 220 z"
+             id="path12532" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_80_Rectángulo_19_0"
+             stroke-width="35"
+             d="m 5212,16739 h -760 v -220 h 1519 v 220 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="4453"
+             y="16519"
+             width="1520"
+             height="221"
+             id="rect12535" />
+        </g>
+        <g
+           id="g12550">
+          <defs
+             id="defs12544">
+            <radialGradient
+               id="radialGradient3737"
+               gradientUnits="userSpaceOnUse"
+               cx="6518"
+               cy="16513.801"
+               r="400.22198">
+              <stop
+                 offset="0"
+                 stop-color="rgb(255,255,255)"
+                 id="stop3733" />
+              <stop
+                 offset="1"
+                 stop-color="rgb(91,155,213)"
+                 id="stop3735" />
+            </radialGradient>
+          </defs>
+          <path
+             fill="url(#Gradient_12)"
+             stroke="none"
+             id="Drawing_81_Redondear_rectángulo_de_esquina_del_mismo_lado_41_0"
+             d="m 6235,16815 1,9 1,9 3,8 3,9 4,8 5,7 6,8 6,7 7,6 8,6 7,5 8,4 9,3 8,3 9,1 9,1 h 376 l 9,-1 9,-1 8,-3 9,-3 8,-4 8,-5 7,-6 7,-6 7,-7 5,-8 5,-7 5,-8 3,-9 3,-8 1,-9 1,-9 v -376 l -1,-9 -1,-9 -3,-8 -3,-9 -5,-8 -5,-8 -5,-7 -7,-7 -7,-7 -7,-5 -8,-5 -8,-5 -9,-3 -8,-3 -9,-1 -9,-1 h -376 l -9,1 -9,1 -8,3 -9,3 -8,5 -7,5 -8,5 -7,7 -6,7 -6,7 -5,8 -4,8 -3,9 -3,8 -1,9 -1,9 z"
+             style="fill:url(#Gradient_12)" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_81_Redondear_rectángulo_de_esquina_del_mismo_lado_41_1"
+             stroke-width="35"
+             d="m 6235,16815 c 0,47 47,94 94,94 h 376 c 47,0 95,-47 95,-94 v -376 c 0,-47 -48,-95 -95,-95 h -376 c -47,0 -94,48 -94,95 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="6234"
+             y="16344"
+             width="566"
+             height="566"
+             id="rect12548" />
+        </g>
+        <g
+           id="g12563">
+          <defs
+             id="defs12557">
+            <linearGradient
+               id="linearGradient3720"
+               gradientUnits="userSpaceOnUse"
+               x1="7151"
+               y1="16626"
+               x2="7094"
+               y2="16626">
+              <stop
+                 offset="0"
+                 stop-color="rgb(42,105,162)"
+                 id="stop3500" />
+              <stop
+                 offset="1"
+                 stop-color="rgb(157,195,230)"
+                 id="stop3502" />
+            </linearGradient>
+          </defs>
+          <path
+             fill="url(#Gradient_13)"
+             stroke="none"
+             id="Drawing_82_Redondear_rectángulo_de_esquina_del_mismo_lado_114_0"
+             d="m 7152,16353 v -1 -1 -1 l -1,-1 v 0 l -1,-1 v -1 h -1 v -1 h -1 l -1,-1 v 0 l -1,-1 h -1 -1 -1 -38 -1 -1 -1 l -1,1 h -1 v 1 h -1 l -1,1 h -1 v 1 l -1,1 v 0 l -1,1 v 1 1 1 546 1 1 1 l 1,1 v 1 h 1 v 1 l 1,1 1,1 h 1 v 1 h 1 l 1,1 h 1 1 1 38 1 1 1 l 1,-1 v 0 l 1,-1 h 1 v -1 l 1,-1 v -1 h 1 v -1 l 1,-1 v -1 -1 -1 z"
+             style="fill:url(#Gradient_13)" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_82_Redondear_rectángulo_de_esquina_del_mismo_lado_114_1"
+             stroke-width="35"
+             d="m 7152,16353 c 0,-5 -4,-9 -9,-9 h -38 c -5,0 -10,4 -10,9 v 546 c 0,5 5,10 10,10 h 38 c 5,0 9,-5 9,-10 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="7096"
+             y="16344"
+             width="58"
+             height="566"
+             id="rect12561" />
+        </g>
+        <g
+           id="g12570">
+          <path
+             fill="#5b9bd5"
+             stroke="none"
+             d="m 7292,16656 h -117 v -52 h 233 v 52 z"
+             id="path12565" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_83_Rectángulo_42_0"
+             stroke-width="35"
+             d="m 7292,16656 h -117 v -52 h 233 v 52 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="7176"
+             y="16604"
+             width="234"
+             height="53"
+             id="rect12568" />
+        </g>
+        <g
+           id="g12582">
+          <defs
+             id="defs12577">
+            <radialGradient
+               id="radialGradient3760"
+               gradientUnits="userSpaceOnUse"
+               cx="4400.5"
+               cy="16567.6"
+               r="152.92599">
+              <stop
+                 offset="0"
+                 stop-color="rgb(255,255,255)"
+                 id="stop3756" />
+              <stop
+                 offset="1"
+                 stop-color="rgb(91,155,213)"
+                 id="stop3758" />
+            </radialGradient>
+          </defs>
+          <path
+             fill="url(#Gradient_14)"
+             stroke="#43729d"
+             id="Drawing_84_Rectángulo_115_0"
+             stroke-width="35"
+             d="m 4400,16771 h -45 v -291 h 90 v 291 z"
+             style="fill:url(#Gradient_14)" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="4355"
+             y="16481"
+             width="91"
+             height="292"
+             id="rect12580" />
+        </g>
+        <g
+           id="g12594">
+          <defs
+             id="defs12589">
+            <linearGradient
+               id="linearGradient3768"
+               gradientUnits="userSpaceOnUse"
+               x1="4169"
+               y1="16610"
+               x2="4169"
+               y2="16655">
+              <stop
+                 offset="0"
+                 stop-color="rgb(247,250,253)"
+                 id="stop3525" />
+              <stop
+                 offset="1"
+                 stop-color="rgb(206,225,242)"
+                 id="stop3527" />
+            </linearGradient>
+          </defs>
+          <path
+             fill="url(#Gradient_15)"
+             stroke="#43729d"
+             id="Drawing_85_Rectángulo_116_0"
+             stroke-width="35"
+             d="m 4169,16655 h -59 v -45 h 118 v 45 z"
+             style="fill:url(#Gradient_15)" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="4110"
+             y="16611"
+             width="119"
+             height="46"
+             id="rect12592" />
+        </g>
+        <g
+           id="g12606">
+          <defs
+             id="defs12601">
+            <radialGradient
+               id="radialGradient3778"
+               gradientUnits="userSpaceOnUse"
+               cx="4282.5"
+               cy="16567.6"
+               r="152.92599">
+              <stop
+                 offset="0"
+                 stop-color="rgb(255,255,255)"
+                 id="stop3774" />
+              <stop
+                 offset="1"
+                 stop-color="rgb(91,155,213)"
+                 id="stop3776" />
+            </radialGradient>
+          </defs>
+          <path
+             fill="url(#Gradient_16)"
+             stroke="#43729d"
+             id="Drawing_86_Rectángulo_118_0"
+             stroke-width="35"
+             d="m 4282,16771 h -45 v -291 h 90 v 291 z"
+             style="fill:url(#Gradient_16)" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="4237"
+             y="16481"
+             width="91"
+             height="292"
+             id="rect12604" />
+        </g>
+        <g
+           id="g12613">
+          <path
+             fill="#deebf7"
+             stroke="none"
+             d="m 4341,16564 c 77,0 136,31 136,72 0,41 -59,73 -136,73 -77,0 -135,-32 -135,-73 0,-41 58,-72 135,-72 z"
+             id="path12608" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_87_Conector_117_0"
+             stroke-width="26"
+             d="m 4341,16564 c 77,0 136,31 136,72 0,41 -59,73 -136,73 -77,0 -135,-32 -135,-73 0,-41 58,-72 135,-72 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="4207"
+             y="16565"
+             width="272"
+             height="146"
+             id="rect12611" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="DrawingGroup_1_Grupo_290"
+       transform="matrix(0.02362097,0,0,0.02915184,-122.29548,-382.88417)">
+      <g
+         id="g11956">
+        <path
+           fill="#deebf7"
+           stroke="none"
+           d="m 10454,17179 h -885 v -1104 h 1769 v 1104 z"
+           id="path11951" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_2_Rectángulo_11_0"
+           stroke-width="35"
+           d="m 10454,17179 h -885 v -1104 h 1769 v 1104 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9570"
+           y="16075"
+           width="1770"
+           height="1105"
+           id="rect11954" />
+      </g>
+      <g
+         id="g11964">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 10460,17155 h -865 v -663 h 1729 v 663 z"
+           id="path11958" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9595"
+           y="16492"
+           width="1730"
+           height="664"
+           id="rect11960" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9596"
+           y="16493"
+           width="1730"
+           height="664"
+           id="rect11962" />
+      </g>
+      <g
+         id="g11972">
+        <path
+           fill="#deebf7"
+           stroke="none"
+           d="m 10460,16380 h -865 v -321 h 1729 v 321 z"
+           id="path11966" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9595"
+           y="16059"
+           width="1730"
+           height="322"
+           id="rect11968" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="9596"
+           y="16060"
+           width="1730"
+           height="322"
+           id="rect11970" />
+      </g>
+      <g
+         id="DrawingGroup_2_Grupo_283">
+        <g
+           id="g11979">
+          <path
+             fill="#bdd7ee"
+             stroke="none"
+             d="m 9850,16196 h -12 v -459 h 23 v 459 z"
+             id="path11974" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_5_Rectángulo_107_0"
+             stroke-width="18"
+             d="m 9850,16196 h -12 v -459 h 23 v 459 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="9839"
+             y="15738"
+             width="24"
+             height="460"
+             id="rect11977" />
+        </g>
+        <g
+           id="g11986">
+          <path
+             fill="#9dc3e6"
+             stroke="none"
+             d="m 9949,16132 -224,159 v -159 l 224,159 z"
+             id="path11981" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_6_Intercalar_12_0"
+             stroke-width="18"
+             d="m 9949,16132 -224,159 v -159 l 224,159 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="9726"
+             y="16132"
+             width="225"
+             height="160"
+             id="rect11984" />
+        </g>
+        <g
+           id="g11993">
+          <path
+             fill="#bdd7ee"
+             stroke="none"
+             d="m 9842,15699 c 68,0 121,41 121,94 0,53 -53,95 -121,95 -68,0 -121,-42 -121,-95 0,-53 53,-94 121,-94 z"
+             id="path11988" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_7_Conector_15_0"
+             stroke-width="9"
+             d="m 9842,15699 c 68,0 121,41 121,94 0,53 -53,95 -121,95 -68,0 -121,-42 -121,-95 0,-53 53,-94 121,-94 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="9721"
+             y="15700"
+             width="243"
+             height="190"
+             id="rect11991" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="DrawingGroup_9_Grupo_289"
+       transform="matrix(0.02403133,0,0,0.03242185,-151.12296,-438.61972)">
+      <g
+         id="g12622">
+        <path
+           fill="#deebf7"
+           stroke="none"
+           d="m 14779,17161 h -1371 v -986 h 2741 v 986 z"
+           id="path12617" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_88_Rectángulo_209_0"
+           stroke-width="35"
+           d="m 14779,17161 h -1371 v -986 h 2741 v 986 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="13409"
+           y="16175"
+           width="2742"
+           height="987"
+           id="rect12620" />
+      </g>
+      <g
+         id="g12630">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 14783,17136 h -1350 v -630 h 2699 v 630 z"
+           id="path12624" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="13433"
+           y="16506"
+           width="2700"
+           height="631"
+           id="rect12626" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="13434"
+           y="16506"
+           width="2700"
+           height="631"
+           id="rect12628" />
+      </g>
+      <g
+         id="g12638">
+        <path
+           fill="#deebf7"
+           stroke="none"
+           d="m 14783,16487 h -1340 v -321 h 2679 v 321 z"
+           id="path12632" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="13443"
+           y="16166"
+           width="2680"
+           height="322"
+           id="rect12634" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="13444"
+           y="16167"
+           width="2680"
+           height="322"
+           id="rect12636" />
+      </g>
+      <g
+         id="g12645">
+        <path
+           fill="#bdd7ee"
+           stroke="none"
+           d="m 13720,16805 h -10 v -799 h 19 v 799 z"
+           id="path12640" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_91_Rectángulo_260_0"
+           stroke-width="18"
+           d="m 13720,16805 h -10 v -799 h 19 v 799 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="13711"
+           y="16007"
+           width="20"
+           height="800"
+           id="rect12643" />
+      </g>
+      <g
+         id="g12652">
+        <path
+           fill="#9dc3e6"
+           stroke="none"
+           d="m 13831,16744 -243,135 v -135 l 243,135 z"
+           id="path12647" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_92_Intercalar_261_0"
+           stroke-width="18"
+           d="m 13831,16744 -243,135 v -135 l 243,135 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="13589"
+           y="16744"
+           width="244"
+           height="136"
+           id="rect12650" />
+      </g>
+      <g
+         id="g12659">
+        <path
+           fill="#bdd7ee"
+           stroke="none"
+           d="m 13713,15819 c 58,0 103,44 103,102 0,58 -45,103 -103,103 -58,0 -102,-45 -102,-103 0,-58 44,-102 102,-102 z"
+           id="path12654" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_93_Conector_262_0"
+           stroke-width="9"
+           d="m 13713,15819 c 58,0 103,44 103,102 0,58 -45,103 -103,103 -58,0 -102,-45 -102,-103 0,-58 44,-102 102,-102 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="13611"
+           y="15819"
+           width="207"
+           height="207"
+           id="rect12657" />
+      </g>
+      <g
+         id="g12666">
+        <path
+           fill="#ffffff"
+           stroke="none"
+           d="m 15849,16467 h -63 v -292 h 126 v 292 z"
+           id="path12661" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_94_Rectángulo_264_0"
+           stroke-width="9"
+           d="m 15849,16467 h -63 v -292 h 126 v 292 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="15786"
+           y="16175"
+           width="127"
+           height="293"
+           id="rect12664" />
+      </g>
+      <g
+         id="g12669">
+        <path
+           fill="none"
+           stroke="#5b9bd5"
+           id="Drawing_95_Conector_recto_269_0"
+           stroke-width="26"
+           d="m 16167,15906 -254,415" />
+      </g>
+      <g
+         id="g12672">
+        <path
+           fill="none"
+           stroke="#5b9bd5"
+           id="Drawing_96_Conector_recto_271_0"
+           stroke-width="26"
+           d="m 15534,15906 252,415" />
+      </g>
+      <g
+         id="g12675">
+        <path
+           fill="none"
+           stroke="#5b9bd5"
+           id="Drawing_97_Conector_recto_275_0"
+           stroke-width="26"
+           d="m 15526,15898 h 625" />
+      </g>
+      <g
+         id="g12682">
+        <path
+           fill="#bdd7ee"
+           stroke="none"
+           d="m 15852,15795 c 58,0 103,44 103,102 0,58 -45,103 -103,103 -58,0 -102,-45 -102,-103 0,-58 44,-102 102,-102 z"
+           id="path12677" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_98_Conector_263_0"
+           stroke-width="9"
+           d="m 15852,15795 c 58,0 103,44 103,102 0,58 -45,103 -103,103 -58,0 -102,-45 -102,-103 0,-58 44,-102 102,-102 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="15750"
+           y="15795"
+           width="207"
+           height="207"
+           id="rect12680" />
+      </g>
+      <g
+         id="g12689">
+        <path
+           fill="#9dc3e6"
+           stroke="none"
+           d="m 16138,15979 h -50 v -126 h 99 v 126 z"
+           id="path12684" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_99_Rectángulo_276_0"
+           stroke-width="9"
+           d="m 16138,15979 h -50 v -126 h 99 v 126 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="16089"
+           y="15853"
+           width="100"
+           height="127"
+           id="rect12687" />
+      </g>
+      <g
+         id="g12696">
+        <path
+           fill="#9dc3e6"
+           stroke="none"
+           d="m 15570,15979 h -50 v -126 h 99 v 126 z"
+           id="path12691" />
+        <path
+           fill="none"
+           stroke="#43729d"
+           id="Drawing_100_Rectángulo_277_0"
+           stroke-width="9"
+           d="m 15570,15979 h -50 v -126 h 99 v 126 z" />
+        <rect
+           fill="none"
+           stroke="none"
+           x="15521"
+           y="15853"
+           width="100"
+           height="127"
+           id="rect12694" />
+      </g>
+      <g
+         id="g12699">
+        <path
+           fill="none"
+           stroke="#2e75b6"
+           id="Drawing_101_Conector_recto_279_0"
+           stroke-width="35"
+           d="m 15175,16191 v 971" />
+      </g>
+      <g
+         id="g12702">
+        <path
+           fill="none"
+           stroke="#2e75b6"
+           id="Drawing_102_Conector_recto_281_0"
+           stroke-width="35"
+           d="m 14042,16513 v 649" />
+      </g>
+      <g
+         id="DrawingGroup_10_Grupo_284">
+        <g
+           id="g12709">
+          <path
+             fill="#bdd7ee"
+             stroke="none"
+             d="m 15478,16767 h -12 v -459 h 23 v 459 z"
+             id="path12704" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_103_Rectángulo_285_0"
+             stroke-width="18"
+             d="m 15478,16767 h -12 v -459 h 23 v 459 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="15467"
+             y="16309"
+             width="24"
+             height="460"
+             id="rect12707" />
+        </g>
+        <g
+           id="g12716">
+          <path
+             fill="#9dc3e6"
+             stroke="none"
+             d="m 15577,16703 -224,159 v -159 l 224,159 z"
+             id="path12711" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_104_Intercalar_286_0"
+             stroke-width="18"
+             d="m 15577,16703 -224,159 v -159 l 224,159 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="15354"
+             y="16703"
+             width="225"
+             height="160"
+             id="rect12714" />
+        </g>
+        <g
+           id="g12723">
+          <path
+             fill="#bdd7ee"
+             stroke="none"
+             d="m 15471,16270 c 68,0 121,41 121,94 0,53 -53,95 -121,95 -68,0 -121,-42 -121,-95 0,-53 53,-94 121,-94 z"
+             id="path12718" />
+          <path
+             fill="none"
+             stroke="#43729d"
+             id="Drawing_105_Conector_287_0"
+             stroke-width="9"
+             d="m 15471,16270 c 68,0 121,41 121,94 0,53 -53,95 -121,95 -68,0 -121,-42 -121,-95 0,-53 53,-94 121,-94 z" />
+          <rect
+             fill="none"
+             stroke="none"
+             x="15350"
+             y="16271"
+             width="243"
+             height="190"
+             id="rect12721" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#bbdeec;fill-opacity:0.8;stroke:#000000;stroke-width:0.784533;stroke-linejoin:bevel;stroke-dasharray:0.804726, 3.21891;stroke-opacity:0"
+       id="rect26407"
+       width="27.30653"
+       height="17.521088"
+       x="14.847473"
+       y="22.101246" />
+    <rect
+       style="fill:#bbdeec;fill-opacity:0.8;stroke:#000000;stroke-width:0.87958;stroke-linejoin:bevel;stroke-dasharray:0.902219, 3.60888;stroke-opacity:0"
+       id="rect26407-1"
+       width="57.822369"
+       height="10.400595"
+       x="97.181801"
+       y="38.332382" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#5b9bd5;stroke-width:0.721546;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.721546, 2.88618;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 44.488675,42.29545 40.993431,0.0564"
+       id="linea_1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#5b9bd5;stroke-width:0.761099;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.761099, 3.0444;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 71.837768,104.77212 30.455222,-0.19141"
+       id="linea_4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#5b9bd5;stroke-width:0.741998;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.741998, 2.96799;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 169.53631,104.21017 -22.42564,0.0429"
+       id="linea_5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#5b9bd5;stroke-width:0.778354;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.778354, 3.11342;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 168.43769,42.51122 33.71702,-0.451128"
+       id="linea_2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#5b9bd5;stroke-width:0.778354;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.778354, 3.11342;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 202.44757,46.947447 125.49269,84.042174"
+       id="linea_3"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="flecha_1"
+       style="display:inline;fill:#5b9bd5;fill-opacity:1;stroke-width:0"
+       d="M -5.1002182e-7,-4.5509089 V 4.4727224 L 9.0236305,-0.03909392 Z">
+      <animateMotion
+         dur="3s"
+         repeatCount="indefinite"
+         rotate="auto">
+        <mpath
+           xlink:href="#linea_1" />
+      </animateMotion>
+    </path>
+    <path
+       id="flecha_2"
+       style="display:inline;fill:#5b9bd5;fill-opacity:1;stroke-width:0"
+       d="M -5.1002182e-7,-4.5509089 V 4.4727224 L 9.0236305,-0.03909392 Z">
+      <animateMotion
+         dur="3s"
+         repeatCount="indefinite"
+         rotate="auto">
+        <mpath
+           xlink:href="#linea_2" />
+      </animateMotion>
+    </path>
+    <path
+       id="flecha_3"
+       style="display:inline;fill:#5b9bd5;fill-opacity:1;stroke-width:0"
+       d="M -5.1002182e-7,-4.5509089 V 4.4727224 L 9.0236305,-0.03909392 Z">
+      <animateMotion
+         dur="3s"
+         repeatCount="indefinite"
+         rotate="auto">
+        <mpath
+           xlink:href="#linea_3" />
+      </animateMotion>
+    </path>
+    <path
+       id="flecha_5"
+       style="display:inline;fill:#5b9bd5;fill-opacity:1;stroke-width:0"
+       d="M -5.1002182e-7,-4.5509089 V 4.4727224 L 9.0236305,-0.03909392 Z">
+      <animateMotion
+         dur="3s"
+         repeatCount="indefinite"
+         rotate="auto">
+        <mpath
+           xlink:href="#linea_4" />
+      </animateMotion>
+    </path>
+    <path
+       id="flecha_4"
+       style="display:inline;fill:#5b9bd5;fill-opacity:1;stroke-width:0"
+       d="M -5.1002182e-7,-4.5509089 V 4.4727224 L 9.0236305,-0.03909392 Z">
+      <animateMotion
+         dur="3s"
+         repeatCount="indefinite"
+         rotate="auto">
+        <mpath
+           xlink:href="#linea_5" />
+      </animateMotion>
+    </path>
+    <text
+       xml:space="preserve"
+       style="font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';fill:#000000;fill-opacity:1;stroke:#5b9bd5;stroke-width:0.523999"
+       x="13.549078"
+       y="91.330818"
+       id="text11747"><tspan
+         sodipodi:role="line"
+         id="tspan11745"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.524"
+         x="13.549078"
+         y="91.330818" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.523999;stroke-opacity:1"
+       x="9.5345354"
+       y="90.327187"
+       id="text12788"><tspan
+         sodipodi:role="line"
+         id="tspan12786"
+         style="stroke:#000000;stroke-width:0.524;stroke-opacity:1"
+         x="9.5345354"
+         y="90.327187" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.523999;stroke-opacity:0.6"
+       x="2.6541061"
+       y="67.375839"
+       id="text12896"><tspan
+         sodipodi:role="line"
+         id="tspan12894"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:0.524;stroke-opacity:0.6"
+         x="2.6541061"
+         y="67.375839">Homogeneizador</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.523999;stroke-opacity:0.6"
+       x="46.050575"
+       y="33.870155"
+       id="text12896-7"><tspan
+         sodipodi:role="line"
+         id="tspan12894-1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:0.524;stroke-opacity:0.6"
+         x="46.050575"
+         y="33.870155">00.00 m3/h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.523999;stroke-opacity:0.6"
+       x="111.02293"
+       y="21.734953"
+       id="text_oxigeno"><tspan
+         sodipodi:role="line"
+         id="tspan12894-2"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:0.524;stroke-opacity:0.6"
+         x="111.02293"
+         y="21.734953">00.00 ppm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65266px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.524002;stroke-opacity:0.6"
+       x="196.31627"
+       y="67.37632"
+       id="text12896-2"><tspan
+         sodipodi:role="line"
+         id="tspan12894-5"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65266px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:0.524003;stroke-opacity:0.6"
+         x="196.31627"
+         y="67.37632">Decantador</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.523999;stroke-opacity:0.6"
+       x="15.972769"
+       y="127.15819"
+       id="text12896-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan12894-5-3"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:0.524;stroke-opacity:0.6"
+         x="15.972769"
+         y="127.15819">Deshidratador</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.523999;stroke-opacity:0.6"
+       x="116.31849"
+       y="127.31741"
+       id="text12896-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan12894-5-9"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:0.524;stroke-opacity:0.6"
+         x="116.31849"
+         y="127.31741">Foso</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.523999;stroke-opacity:0.6"
+       x="182.97823"
+       y="127.69107"
+       id="text12896-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan12894-5-8"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.524;stroke-opacity:0.6"
+         x="182.97823"
+         y="127.69107">Polielectrolito</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.75674px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.471642;stroke-opacity:0.8"
+       x="17.975731"
+       y="28.916969"
+       id="text1746"><tspan
+         sodipodi:role="line"
+         id="tspan1744"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.75674px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.471642;stroke-opacity:0.8"
+         x="17.975731"
+         y="28.916969">Sosa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.75674px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.471642;stroke-opacity:0.8"
+       x="17.265724"
+       y="37.43483"
+       id="text1746-8"><tspan
+         sodipodi:role="line"
+         id="tspan1744-2"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.75674px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.471642;stroke-opacity:0.8"
+         x="17.265724"
+         y="37.43483">Ácido</tspan></text>
+    <rect
+       style="fill:"{{sosa}}";stroke:#000000;stroke-width:0.471642"
+       id="rect_sosa"
+       width="6.0070686"
+       height="6.0070686"
+       x="35.517181"
+       y="23.533388" />
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.472;stroke-dasharray:none"
+       id="rect_acido"
+       width="6.0070686"
+       height="6.0070686"
+       x="35.517181"
+       y="32.071045" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.9628px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b3b3b3;stroke:#000000;stroke-width:0.486025;stroke-opacity:1"
+       x="99.025597"
+       y="45.995113"
+       id="text1746-0"><tspan
+         sodipodi:role="line"
+         id="tspan1744-5"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.9628px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:0.486025;stroke-opacity:0.8"
+         x="99.025597"
+         y="45.995113">Antiespumante</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.486025"
+       id="rect_antiespumante"
+       width="6.190259"
+       height="6.190259"
+       x="147.33594"
+       y="40.235233" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.65262px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.742;stroke-dasharray:0.761098, 3.0444;stroke-dashoffset:0;stroke-opacity:1"
+       x="50.934494"
+       y="57.709034"
+       id="text16864"><tspan
+         sodipodi:role="line"
+         id="tspan16862"
+         style="stroke-width:0.742"
+         x="50.934494"
+         y="57.709034" /></text>
+  </g>
+</svg>

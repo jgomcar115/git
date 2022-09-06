@@ -1,0 +1,85 @@
+[Configuración del servidor/broker Mosquitto]
+
+	- link de ayuda: https://aprendiendoarduino.wordpress.com/tag/configurar-mosquitto/
+	
+	- Instalación del broker MQTT Mosquitto.
+		sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa
+		sudo apt-get update
+		sudo systemctl enable mosquitto.service
+	
+	- Reinicio de mosquitto.
+		sudo systemctl restart mosquitto
+	
+	- Configuración del broker MQTT mosquitto (/etc/mosquitto/mosquitto.conf)
+		- Hacer una copia de seguridad a la configuración.
+			cp /etc/mosquitto/mosquitto.conf /etc/mosquitto/mosquitto.conf.back
+		- para editarlo: nano /etc/mosquitto/mosquitto.conf
+		Se tiene que quedar tal que así =>
+			
+			listener 1883
+			
+			persistence true
+			persistence_location /var/lib/mosquitto
+			
+			log_dest /var/log/mosquitto/mosquitto.log
+			log_type all
+			log_timestamp true
+			
+			include_dir /etc/mosquitto/conf.d
+			password_file /etc/mosquitto/passwd
+			
+			listener 8883
+			cafile /etc/mosquitto/ca_certificates/ca.crt
+			certfile /etc/mosquitto/certs/server.crt
+			keyfile /etc/mosquitto/certs/server.key
+			
+			require_certificate true
+			#use_identity_as_username true	# activar si queremos que se use como username el identificador del certificado.
+			#crlfile /.../...				# activar si queremos indicar un archivo de listas de certificados revocados.
+			
+	- Autentificación en Mosquitto. (usuario y contraseña)
+		- Para crear el fichero de contraseñas con un usuario.
+			sudo mosquitto_passwd -c /etc/mosquitto/passwd usuario1  (sustituir usuario1 por el nombre de usuario real)
+				(después el sistema pedirá la contraseña)
+		- Para añadir otro usuario.
+			sudo mosquitto_passwd -b password_file usuario2 password_file
+		- Reiniciar el servicio después de cada modificación.
+	
+	- Comunicación Segura
+	link ayuda: http://www.steves-internet-guide.com/mosquitto-tls/
+		Pasos:
+		- sudo apt-get install openssl
+		- mkdir /home/pi/certificados
+		- cd /home/pi/certificados
+		- openssl genrsa -des3 -out ca.key 2048 (pide contraseña)
+		- openssl req -new -x509 -days 1826 -key ca.key -out ca.crt (poner en CN el nombre o IP del servidor)
+		- openssl genrsa -out server.key 2048
+		- openssl req -new -out server.csr -key server.key (CN suele ser el nombre de dominio del servidor)
+		- openssl x509 -req -in server.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out server.crt -days 360
+		
+		- copiar certifica CA ca.crt en el cliente.
+		
+	- Comunicación segura con certificados en los clientes.
+	link de ayuda: http://www.steves-internet-guide.com/creating-and-using-client-certificates-with-mqtt-and-mosquitto/
+		- Configuración en el broker mosquitto:
+			require_ceertificates true
+			use_identity_as_username true (no es necesario)
+			crlfile - es un certificado que revoca el certificado del cliente
+			
+		- Crear Certificados auto firmados para los clientes
+			- create a client key
+			- create a client certificate
+			- use the CA-key to sign the client certificate
+			
+		- Pasos:
+			- Como ya hemos creado el CA no hay que crear otro
+			- openssl genrsa -out client.key 2048
+			- openssl req -new -out client.csr -key client.key (the common name is uses to identity the client)
+			- openssl x509 -req -in client.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out client.crt -days 360   (si son componentes dentro del servidor poner una duración de 10/20 años)
+			
+		Los archivos que usará el cliente son: ca.crt , client.crt , client.key
+		
+	- Revocar certificados de los clientes. (Por acabar)
+	link de ayuda: https://access.redhat.com/documentation/en-us/red_hat_update_infrastructure/2.1/html/administration_guide/chap-red_hat_update_infrastructure-administration_guide-certification_revocation_list_crl
+		- Implementar una lista crl (Certification Revocation List)
+			- mkdir /etc/mosquitto/crl

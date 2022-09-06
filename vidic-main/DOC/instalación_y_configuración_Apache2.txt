@@ -1,0 +1,5 @@
+link de ayuda: https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-es
+
+Para poder comprobar si funciona, únicamente desde mi ordenador puedes configurar un "DNS" en la carpeta situada
+en "C:\windows\system32\drivers\etc\hosts".
+
